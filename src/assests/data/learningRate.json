@@ -1,0 +1,46 @@
+{
+  "lr": [
+    {
+      "ageLevel": "0 - 1",
+      "cognitive": "0.25",
+      "commLang": "0.35",
+      "selfHelp": "0.90",
+      "social": "0.63"
+    },
+    {
+      "ageLevel": "1 - 2",
+      "cognitive": "0.25",
+      "commLang": "0.35",
+      "selfHelp": "0.90",
+      "social": "0.63"
+    },
+    {
+      "ageLevel": "2 - 3",
+      "cognitive": "0.25",
+      "commLang": "0.35",
+      "selfHelp": "0.90",
+      "social": "0.63"
+    },
+    {
+      "ageLevel": "3 - 4",
+      "cognitive": "0.25",
+      "commLang": "0.35",
+      "selfHelp": "0.90",
+      "social": "0.63"
+    },
+    {
+      "ageLevel": "4 - 5",
+      "cognitive": "0.25",
+      "commLang": "0.35",
+      "selfHelp": "0.90",
+      "social": "0.63"
+    },
+    {
+      "ageLevel": "5 - 6",
+      "cognitive": "0.25",
+      "commLang": "0.35",
+      "selfHelp": "0.90",
+      "social": "0.63"
+    }
+  ]
+}
